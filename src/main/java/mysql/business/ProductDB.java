@@ -5,9 +5,9 @@ import java.util.ArrayList;
 
 public class ProductDB {
 	
-	private static String url = "jdbc:mysql://localhost:3306/productdb";
-    private static String username = "root";
-    private static String password = "YbRJ_sq05kFq";
+    private static String url = "jdbc:mysql://localhost:3306/productdb";
+    private static String username = "test";
+    private static String password = "12345";
 	
     public static ArrayList<Product> select() {
         ArrayList<Product> products = new ArrayList<Product>();
