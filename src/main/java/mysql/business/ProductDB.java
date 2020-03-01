@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class ProductDB {
 	
-    private static String url = "jdbc:mysql://192.168.0.104:3306/productdb";
+    private static String url = "jdbc:mysql://localhost:3306/productdb";
     private static String username = "root";
     private static String password = "12131415";
 	
