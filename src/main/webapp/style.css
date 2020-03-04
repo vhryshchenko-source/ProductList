@@ -24,6 +24,7 @@ a {
     font: bold 100% serif;
 }
 p a {
+    text-align: center;
     text-decoration: none;
     color: blue;
     font: bold italic 120% serif;
