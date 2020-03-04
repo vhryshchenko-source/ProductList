@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <title>Edit product</title>
 <link href="style.css" rel="stylesheet" type="text/css">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Spartan:400,700|Trade+Winds&display=swap');
+</style>
 </head>
 <body>
 <h3>Edit product</h3>

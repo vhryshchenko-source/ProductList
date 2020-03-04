@@ -5,9 +5,13 @@
 <meta charset="UTF-8">
 <title>Products</title>
 <link href="style.css" rel="stylesheet" type="text/css">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Spartan:400,700|Trade+Winds&display=swap');
+</style>
 </head>
 <body>
-<h2>Products List</h2>
+<center>
+<h2>Product List</h2>
 <p><a href='<c:url value="/create" />'>Create new</a></p>
 <table>
 <tr><th>Name</th><th>Price</th><th></th></tr>
@@ -23,5 +27,6 @@
  </td></tr>
 </c:forEach>
 </table>
+</center>
 </body>
 </html>

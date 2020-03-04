@@ -9,19 +9,23 @@ body {
     background-color: rgba(154, 224, 207, 0.904);
     display: table-cell;
     vertical-align: middle;
+    font-family: 'Spartan', sans-serif;
 }
 h2 {
     text-align: center;
     font: bold 180% serif;
+    font-family: 'Spartan', sans-serif;
 }
 h3 {
     text-align: center;
     font: bold 150% serif;
+    font-family: 'Spartan', sans-serif;
 }
 a {
     text-decoration: none;
     color: black;
     font: bold 100% serif;
+    font-family: 'Spartan', sans-serif;
 }
 p a {
     text-align: center;
@@ -30,17 +34,21 @@ p a {
     font: bold italic 120% serif;
     margin: 50px;
     border-bottom: 2px solid black;
+    font-family: 'Trade Winds', cursive;
 }
 table {
     width: 1000px;
     border: 1px solid black;
     margin: auto;
+    font-family: 'Spartan', sans-serif;
 }
 td {
     text-align: center;
+    font-family: 'Spartan', sans-serif;
 }
 th {
     font: bold 150% serif;
+    font-family: 'Spartan', sans-serif;
 }
 input {
     width: 100px;
@@ -50,6 +58,7 @@ input {
     border: 1px solid black;
     background-color:  rgba(47, 95, 83, 0.904);
     font: bold 100% serif;
+    font-family: 'Spartan', sans-serif;
 }
 input[type="number"], input[name="name"] {
     width: 200px;
