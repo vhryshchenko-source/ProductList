@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Products</title>
-<link rel="stylesheets" href="style.css">
+<link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <h2>Products List</h2>
